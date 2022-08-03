@@ -1,0 +1,31 @@
+@import url(https://fonts.google.com/share?selection.family=Mouse%20Memoirs);
+body
+{
+    background-color: aquamarine;
+}
+h1
+{
+text-align: center;
+font-size: 90px;
+color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img
+{
+width: 150px; 
+height: 250px;
+margin: 30px auto;
+display: block;
+}
+.banner
+{
+    background-color: white;
+    padding-bottom: 30px;
+}
+p
+{
+    text-align: center;
+    color: mediumblue;
+    font-size: 50px;
+    font-weight: 100;
+}
